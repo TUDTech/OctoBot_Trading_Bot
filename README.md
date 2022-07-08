@@ -2,11 +2,8 @@
 
 ![octopus](https://user-images.githubusercontent.com/81108192/177814143-2e42c922-3908-4566-8145-f3b49916e114.png)
 
-![Web Interface](../assets/web-interface.gif)
 ## Description
 [Octobot](https://www.octobot.online/) is a powerful, fully modular open-source cryptocurrency trading robot.
-
-See the [Octobot official website](https://www.octobot.online/).
 
 This repository contains all the features of the bot (trading tools, evaluation engines, the backtesting toolkit, ...).
 [Octobot's tentacles](https://github.com/Drakkar-Software/OctoBot-tentacles) contains the bot's strategies and user interfaces.
