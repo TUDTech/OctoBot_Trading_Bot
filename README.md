@@ -8,7 +8,7 @@
 This repository contains all the features of the bot (trading tools, evaluation engines, the backtesting toolkit, ...).
 [Octobot's tentacles](https://github.com/Drakkar-Software/OctoBot-tentacles) contains the bot's strategies and user interfaces.
 
-To install OctoBot with its tentacles, just use the [latest release for your system](https://github.com/Drakkar-Software/OctoBot/releases/latest) and your OctoBot is ready ! 
+To install OctoBot with its tentacles, just use the [latest release for your system](https://github.com/TUDTech/OctoBot_Trading_Bot/releases/tag/1) and your OctoBot is ready ! 
 
 Find the answers to the most common questions in [our FAQ](https://www.octobot.info/usage/frequently-asked-questions-faq).
 
