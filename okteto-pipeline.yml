@@ -1,9 +1,8 @@
-icon: https://raw.githubusercontent.com/Drakkar-Software/OctoBot/assets/octopus.png
 deploy:
   - echo "" >> .env
   - |
     if [[ "$OKTETO_GIT_BRANCH" == "master" ]] ;  then
-      echo "DOCKER_IMAGE=drakkarsoftware/octobot:stable" >> .env
+      echo "DOCKER_IMAGE=TUDTech/octobot:stable" >> .env
       echo "TENTACLES_REPOSITORY=tentacles" >> .env
       echo "TENTACLES_URL_TAG=" >> .env
       okteto stack deploy --wait
