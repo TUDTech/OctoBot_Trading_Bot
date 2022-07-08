@@ -63,7 +63,7 @@ Follow the [python installation guide](https://www.octobot.online/python_install
 
 In short :
 ```
-git clone https://github.com/Drakkar-Software/OctoBot.git
+git clone https://github.com/TUDTech/OctoBot_Trading_Bot.git
 cd OctoBot
 python3 -m pip install -Ur requirements.txt
 python3 start.py
