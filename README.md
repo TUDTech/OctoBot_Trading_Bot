@@ -1,21 +1,6 @@
-# OctoBot [0.4.5](https://octobot.click/gh-changelog)
-[![PyPI](https://img.shields.io/pypi/v/OctoBot.svg)](https://octobot.click/gh-pypi)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e07fb190156d4efb8e7d07aaa5eff2e1)](https://app.codacy.com/gh/Drakkar-Software/OctoBot?utm_source=github.com&utm_medium=referral&utm_content=Drakkar-Software/OctoBot&utm_campaign=Badge_Grade_Dashboard)[![Downloads](https://pepy.tech/badge/octobot/month)](https://pepy.tech/project/octobot)
-[![Dockerhub](https://img.shields.io/docker/pulls/drakkarsoftware/octobot.svg)](https://octobot.click/gh-dockerhub)
-[![Coverage Status](https://coveralls.io/repos/github/Drakkar-Software/OctoBot/badge.svg?branch=dev)](https://coveralls.io/github/Drakkar-Software/OctoBot?branch=dev)
-[![OctoBot-CI](https://github.com/Drakkar-Software/OctoBot/workflows/OctoBot-CI/badge.svg)](https://github.com/Drakkar-Software/OctoBot/actions)
-[![Build Status](https://cloud.drone.io/api/badges/Drakkar-Software/OctoBot/status.svg)](https://cloud.drone.io/Drakkar-Software/OctoBot)
-[![UptimeRobot](https://img.shields.io/uptimerobot/ratio/30/m786447893-903b482e5158c8b6483760e8)](https://octobot.click/gh-status)
+# OctoBot
 
-#### Octobot Community
-[![Active OctoBot](https://img.shields.io/badge/dynamic/json.svg?&url=https://octobotmetrics.herokuapp.com/metrics/community/count/0/-1/0&query=$.total&color=green&label=OctoBots%20online%20this%20month)]()
-[![Telegram Chat](https://img.shields.io/badge/telegram-chat-green.svg)](https://octobot.click/gh-telegram)
-[![Discord](https://img.shields.io/discord/530629985661222912.svg?logo=discord)](https://octobot.click/gh-discord)
-[![Telegram News](https://img.shields.io/badge/telegram-news-blue.svg)](https://t.me/OctoBot_Project)
-[![Twitter](https://img.shields.io/twitter/follow/DrakkarsOctobot.svg?label=Follow&style=social)](https://octobot.click/gh-twitter)
-<p align="center">
-<img src="../assets/OctoBot-icon-only.svg" alt="Octobot Logo" height="400" width="400">
-</p>
+![octopus](https://user-images.githubusercontent.com/81108192/177814143-2e42c922-3908-4566-8145-f3b49916e114.png)
 
 ![Web Interface](../assets/web-interface.gif)
 ## Description
