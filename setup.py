@@ -69,10 +69,10 @@ CYTHON_DEBUG = False if not os.getenv('CYTHON_DEBUG') else os.getenv('CYTHON_DEB
 setup(
     name=PROJECT_NAME,
     version=VERSION,
-    url='https://github.com/Drakkar-Software/OctoBot',
+    url='https://github.com/TUDTech/OctoBot_Trading_Bot',
     license='GPL-3.0',
-    author='Drakkar-Software',
-    author_email='drakkar-software@protonmail.com',
+    author='TUDTech',
+    author_email='',
     description='Cryptocurrencies alert / trading bot',
     py_modules=['start'],
     packages=PACKAGES,
