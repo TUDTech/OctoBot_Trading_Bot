@@ -107,7 +107,7 @@ class PythonUpdater(updater_class.Updater):
             self._run_git_remove_local_branch(tag_name)
         except Exception:
             self.logger.debug(f"Branch {tag_name} doesn't exist")
-        # TODO check if origin is Drakkar-Software/OctoBot
+        
         return self._run_git_command(["checkout", f"tags/{tag_name}", "-b", tag_name,
                                       "-f" if force else ""])
 
