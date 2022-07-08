@@ -13,8 +13,6 @@ To install OctoBot with its tentacles, just use the [latest release for your sys
 Find the answers to the most common questions in [our FAQ](https://www.octobot.info/usage/frequently-asked-questions-faq).
 
 ## Your Octobot
-<a href="https://www.octobot.online/guides/#telegram"><img src="../assets/telegram-interface.png" height="414" alt="Telegram interface"></a>
-[![Twitter Interface](../assets/twitter-interface.png)](https://www.octobot.info/interfaces/twitter-interface)
 
 OctoBot is highly customizable using its configuration and tentacles system. 
 You can build your own bot using the infinite [configuration](https://www.octobot.online/guides/#trading_modes) possibilities such as 
