@@ -14,6 +14,8 @@ Find the answers to the most common questions in [our FAQ](https://www.octobot.i
 
 ## Your Octobot
 
+![twitter-interface](https://user-images.githubusercontent.com/81108192/178025095-84f8cb67-1181-4cc1-82cd-d8a261bbeec1.png)
+
 OctoBot is highly customizable using its configuration and tentacles system. 
 You can build your own bot using the infinite [configuration](https://www.octobot.online/guides/#trading_modes) possibilities such as 
 **technical analysis**, **social media processing** or even **external statistics management** like google trends.
@@ -71,16 +73,6 @@ python3 start.py
 
 #### One click deployment
 Follow the [Digital Ocean installation guide](https://octobot.click/gh-do-install) 
-
-In short :
-
-[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://octobot.click/gh-do-deploy)
-
-- Get 60-day free Digital Ocean hosting by registering with [OctoBot referral link](https://m.do.co/c/40c9737100b1).
-
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://octobot.click/gh-okteto-deploy)
-
-- Free 24-hour demo repeatable indefinitely on Okteto simply using your Github account
 
 ## Exchanges
 [![Binance](../assets/binance-logo.png)](https://octobot.click/gh-binance)
