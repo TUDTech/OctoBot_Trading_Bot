@@ -71,19 +71,17 @@ python3 -m pip install -Ur requirements.txt
 python3 start.py
 ```
 
-#### One click deployment
-Follow the [Digital Ocean installation guide](https://octobot.click/gh-do-install) 
-
 ## Exchanges
-[![Binance](../assets/binance-logo.png)](https://octobot.click/gh-binance)
-[![Binance](../assets/ftx-logo.png)](https://octobot.click/gh-ftx)
-[![Binance](../assets/okex-logo.png)](https://octobot.click/gh-okex)
-[![Binance](../assets/gateio-logo.png)](https://octobot.click/gh-gateio)
-[![Binance](../assets/huobi-logo.png)](https://octobot.click/gh-huobi)
-[![Bitmax](../assets/ascendex-logo.png)](https://octobot.click/gh-ascendex)
-[![Coinbase](../assets/coinbasepro-logo.png)](https://pro.coinbase.com)
-[![Kucoin](../assets/kucoin-logo.png)](https://www.kucoin.com)
-[![Bitmex](../assets/bitmex-logo.png)](https://bitmex.com)
+
+![ascendex-logo](https://user-images.githubusercontent.com/81108192/178025918-3c58f2b6-92d3-46d5-85fb-c965b51ee766.png)
+![binance-logo](https://user-images.githubusercontent.com/81108192/178025919-caf39ac0-6b9b-4b35-a17a-800f5315f12d.png)
+![bitmex-logo](https://user-images.githubusercontent.com/81108192/178025922-d6c30fa4-eb92-4f2b-9743-5c2f9c7eec13.png)
+![coinbasepro-logo](https://user-images.githubusercontent.com/81108192/178025924-2a0fe1b6-39cf-46c3-8dbc-4efdba02c2a3.png)
+![ftx-logo](https://user-images.githubusercontent.com/81108192/178025926-9ec181d2-faac-4740-a3c6-b37334e6d202.png)
+![gateio-logo](https://user-images.githubusercontent.com/81108192/178025930-fcb98c34-5aff-404c-91f6-b02d02e7d2c4.png)
+![huobi-logo](https://user-images.githubusercontent.com/81108192/178025932-fc9a684f-db49-4b13-b2ec-ac0ca09af6b6.png)
+![kucoin-logo](https://user-images.githubusercontent.com/81108192/178025933-1377ead6-088e-423d-b778-2bb9a3bb8e21.png)
+![okex-logo](https://user-images.githubusercontent.com/81108192/178025936-21ec5445-6d43-4101-9c4f-7dc5a88c76ab.png)
 
 Octobot supports many [exchanges](https://octobot.click/gh-exchanges) thanks to the [ccxt library](https://github.com/ccxt/ccxt). 
 To activate trading on an exchange, just configure OctoBot with your api keys as described [on the exchange documentation](https://www.octobot.online/guides/#exchanges).
@@ -97,24 +95,3 @@ before you understand how it works and what profit/loss you should
 expect.
 
 Do not hesitate to read the source code and understand the mechanism of this bot.
-
-## License
-GNU General Public License v3.0 or later.
-
-See [LICENSE](https://octobot.click/gh-license) to see the full text.
-
-## Sponsors
-<table>
-<tr>
-<td><a href="https://www.jetbrains.com" target="_blank">JetBrains</a> with PyCharm Pro.</td>
-<td><a href="https://www.jetbrains.com" target="_blank"><p align="center"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="100px"></p></a></td>
-</tr>
-<tr>
-<td>Special thanks to <a href="https://m.do.co/c/40c9737100b1" target="_blank">DigitalOcean</a> for hosting OctoBot's open source tentacles and community websites.</td>
-<td><a href="https://m.do.co/c/40c9737100b1" target="_blank"><p align="center"><img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PNG/DO_Logo_Horizontal_Blue.png?utm_medium=opensource&utm_source=OctoBot"></p></a></td>
-</tr>
-<tr>
-<td>Thanks to <a href="https://okteto.com/" target="_blank">Okteto</a> for allowing OctoBot developers to test their changes online with a simple button.</td>
-<td><a href="https://okteto.com/" target="_blank"><p align="center"><img src="https://github.com/Drakkar-Software/OctoBot/blob/assets/okteto.png?raw=true"></p></a></td>
-</tr>
-</table>
