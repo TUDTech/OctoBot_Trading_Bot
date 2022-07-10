@@ -28,8 +28,8 @@ Octobot's main feature is **evolution** : you can [install](https://www.octobot.
 
 ## Hardware requirements
 - CPU : 1 Core / 1GHz
-- RAM : 250 Mo
-- Disk : 1 Go
+- RAM : 250 Mb
+- Disk : 1 Gb
 
 ## Installation
 OctoBot's installation is **very simple**... because **very documented** ! See the [installation guides](https://www.octobot.online/guides/#installation) for more info.
