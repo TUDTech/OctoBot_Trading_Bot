@@ -83,7 +83,7 @@ python3 start.py
 ![kucoin-logo](https://user-images.githubusercontent.com/81108192/178025933-1377ead6-088e-423d-b778-2bb9a3bb8e21.png)
 ![okex-logo](https://user-images.githubusercontent.com/81108192/178025936-21ec5445-6d43-4101-9c4f-7dc5a88c76ab.png)
 
-Octobot supports many [exchanges](https://octobot.click/gh-exchanges) thanks to the [ccxt library](https://github.com/ccxt/ccxt). 
+Octobot supports many [exchanges](https://octobot.click/gh-exchanges) thanks to the ccxt. 
 To activate trading on an exchange, just configure OctoBot with your api keys as described [on the exchange documentation](https://www.octobot.online/guides/#exchanges).
 
 ## Disclaimer
