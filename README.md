@@ -2,6 +2,8 @@
 
 ![octopus](https://user-images.githubusercontent.com/81108192/177814143-2e42c922-3908-4566-8145-f3b49916e114.png)
 
+![My Movie (1)](https://user-images.githubusercontent.com/81108192/179758232-3369c4e3-d554-416e-b8be-6b4a343bb0e7.gif)
+
 ## Description
 [Octobot](https://www.octobot.online/) is a powerful, fully modular open-source cryptocurrency trading robot.
 
